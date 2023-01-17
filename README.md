@@ -69,7 +69,7 @@ if you want to connect a camera to the app, follow the instructions at [Hands-On
 ------------
 
 ### Thanks.
-A more than special thanks to [***FeiGeChuanShu***](https://github.com/FeiGeChuanShu), who adapted the YoloV8 model to the ncnn framework.<br><br>
+A more than special thanks to [***FeiGeChuanShu***](https://github.com/FeiGeChuanShu/ncnn-android-yolov8), who adapted the YoloV8 model to the ncnn framework.<br><br>
 ![output image]( https://qengineering.eu/github/test_busV8.webp )
 
 ------------
