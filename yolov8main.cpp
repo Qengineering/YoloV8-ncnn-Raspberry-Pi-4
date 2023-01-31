@@ -14,7 +14,7 @@
 
 //modified 1-14-2023 Q-engineering
 
-#include "yolo.h"
+#include "yoloV8.h"
 
 #include <opencv2/core/core.hpp>
 #include <opencv2/highgui/highgui.hpp>
