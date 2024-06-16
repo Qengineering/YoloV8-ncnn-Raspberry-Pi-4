@@ -1,10 +1,10 @@
-# YoloV8 Raspberry Pi 4
+# YoloV8 Raspberry Pi 4 or 5
 ![output image]( https://qengineering.eu/github/test_parkV8.webp )
 ## YoloV8 with the ncnn framework. <br/>
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
 For now: https://github.com/akashAD98/yolov8_in_depth<br>
 Paper: on Ultralytics TODO list https://github.com/ultralytics/ultralytics<br/><br/>
-Special made for a bare Raspberry Pi 4, see [Q-engineering deep learning examples](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html)
+Special made for a bare Raspberry Pi, see [Q-engineering deep learning examples](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html)
 
 ------------
 
@@ -40,7 +40,7 @@ Numbers in **FPS** and reflect only the inference timing. Grabbing frames, post-
 
 ## Dependencies.
 To run the application, you have to:
-- A Raspberry Pi 4 with a 32 or 64-bit operating system. It can be the Raspberry 64-bit OS, or Ubuntu 18.04 / 20.04. [Install 64-bit OS](https://qengineering.eu/install-raspberry-64-os.html) <br/>
+- A Raspberry Pi 4 or 5 with a 32 or 64-bit operating system. It can be the Raspberry 64-bit OS, or Ubuntu 18.04 / 20.04. [Install 64-bit OS](https://qengineering.eu/install-raspberry-64-os.html) <br/>
 - The Tencent ncnn framework installed. [Install ncnn](https://qengineering.eu/install-ncnn-on-raspberry-pi-4.html) <br/>
 - OpenCV 64-bit installed. [Install OpenCV 4.5](https://qengineering.eu/install-opencv-4.5-on-raspberry-64-os.html) <br/>
 - Code::Blocks installed. (```$ sudo apt-get install codeblocks```)
